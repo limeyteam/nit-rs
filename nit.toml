@@ -1,0 +1,4 @@
+[config]
+author = "Exeon"
+dev_path = "/var/www/dev"
+prod_path = "/var/www/prod"
